@@ -1,1 +1,1 @@
-this is just a side project
+this is just a side project.
